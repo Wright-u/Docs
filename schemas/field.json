@@ -1,0 +1,6 @@
+{
+    "name": "string",
+    "modifiers": "string []",
+    "type": "string",
+    "defaultValue": "string"
+}

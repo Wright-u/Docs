@@ -1,0 +1,8 @@
+{
+    "name": "string",
+    "modifiers": "string []",
+    "superclasses": "string []",
+    "constructors": "method.schema []",
+    "fields": "field.schema []",
+    "methods": "method.schema []"
+}
