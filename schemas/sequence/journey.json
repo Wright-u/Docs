@@ -1,0 +1,14 @@
+{
+    "name": "string",
+    "description": "string?",
+    "steps": [
+        {
+            "invoker": "entity.schema",
+            "source": "entity.schema",
+            "protocol": "enum",
+            "arguments": "string []",
+            "result": "entity.schema",
+            "isAsync": "boolean"
+        }
+    ]
+}

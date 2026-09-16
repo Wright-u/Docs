@@ -1,8 +1,9 @@
 {
     "name": "string",
     "modifiers": "string []",
-    "superclasses": "string []",
+    "superclasses": "class.schema []",
     "constructors": "method.schema []",
     "fields": "field.schema []",
-    "methods": "method.schema []"
+    "methods": "method.schema []",
+    "component": "component.schema"
 }
