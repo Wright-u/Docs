@@ -1,6 +1,6 @@
 {
     "name": "string",
     "modifiers": "string []",
-    "returnType": "string",
+    "returnTypes": "string []",
     "parameters": "field.schema []"
 }
