@@ -5,7 +5,7 @@ info:
 servers:
   - url: http://localhost:5000/api
 paths:
-  /editor/elements:
+  /editor/elements/{whiteboardId}:
     get:
       summary: Get all elements
       responses:
